@@ -1,0 +1,14 @@
+{
+  "listingMap": {
+    "projects/index.qmd": [
+      "evolutionary-linguistics",
+      "racial-pseudoscience",
+      "sustrans",
+      "northern-power-grid",
+      "*/index.qmd"
+    ],
+    "blog/index.qmd": [
+      "posts"
+    ]
+  }
+}

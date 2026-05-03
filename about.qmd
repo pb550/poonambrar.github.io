@@ -1,0 +1,49 @@
+---
+about:
+    template: marquee
+    image: images/norway.jpg
+---
+One of my clips from the top of a cliff facing the Norwegian Fjord Nærøyfjord
+
+### My Story
+
+My path into data science didn't start with a laptop, it started in a remote tribal district in India, where I was working to improve sanitation conditions for communities in Dhar. What struck me wasn't just the scale of the problem, but how much sharper our decisions became when we let data lead. Using visualisations to strategise where to target resources and time, we helped villagers gain access to something as fundamental as a toilet. That experience changed how I think about what data is actually for.
+
+From there I joined SHEROES, a women-centred social platform, as a Product Manager, helping build and scale a community mobile application that gave women a safe space and a launchpad for their entrepreneurial journeys. Working at that intersection of people, product, and technology made me want to go deeper into the technical side.
+So I did an MSc in Applied Data Science and Statistics at the University of Exeter and haven't looked back. My dissertation explored the evolution of evolutionary linguistics, sitting at an unlikely crossroads of data and language that I found fascinating.
+
+I now work as a Data Scientist with the University of Southampton, building LLM-driven tools for NIHR's research funding body NETSCC; automating and simplifying workflows while keeping the human firmly in the loop.
+
+### Currently
+
+- Working through fast.ai's Practical Deep Learning course — follow along on my blog →
+- Exploring LLMs for risk assessment of research awards at work
+- Knitting a cap (it's going okay)
+
+### Experience
+
+Data Scientist | University of Southampton / NIHR NETSCC | June 2023–Present
+
+- Building LLM-driven tools to improve workforce efficiency in research funding workflows.
+
+Research Assistant | University of Exeter | March–December 2022
+
+- Developed an agent base model to understand how racial pseudocience spreads on Twitter, now X.
+
+Product Manager | SHEROES | October 2018–August 2020
+
+- Helped scale a women-centred social platform focused on community and entrepreneurship.
+
+Consultant | Tata Trusts | June 2017–June 2018
+
+- Used data-driven approaches to improve sanitation access in rural Madhya Pradesh.
+
+### Education
+MSc Applied Data Science and Statistics | University of Exeter | 2021–2022
+
+- Dissertation: The Evolution of Evolutionary Linguistics
+
+BE Civil Engineering | BITS Pilani | 2013–2017
+
+### Outside of work
+I love trying things I haven't done before. Right now that means bouldering, swimming, knitting, and working my way through my book club's reading list, currently on The Raven Scholar. I travel whenever I can, with a mix of adventure, relaxation, and getting genuinely lost in a new culture. The Norway trip that inspired the photo above was one of those.

@@ -1,0 +1,38 @@
+---
+title: "Northern Power Grid — Energy Transition Analysis"
+description: "Identifying spatial and temporal patterns in power consumption across northern UK to guide clean energy upgrades."
+categories: [Geospatial, Extreme Value Theory, Energy, Python]
+image: preview.png
+---
+
+## The Problem
+
+As the UK transitions to clean energy, grid operators need to know **where** 
+to prioritise asset upgrades and **which** power generators are best suited 
+for conversion to renewable sources. Northern Power Grid needed data-driven 
+answers to both questions.
+
+This project was completed as part of the Data Study Group at 
+**The Alan Turing Institute**.
+
+## Approach
+
+I analysed spatial and temporal patterns in power consumption and station 
+capacity across the northern UK. To identify stations under the most strain, 
+I applied **Extreme Value Theory** — a statistical technique for modelling 
+the probability of rare but significant deviations from normal behaviour.
+
+The outputs included visualisations of stations where asset upgrades are 
+required and recommendations for which power generators should be prioritised 
+for conversion to solar and wind.
+
+## Tools & Techniques
+
+- Extreme Value Theory
+- Geospatial visualisation
+- Time-series analysis
+- Python
+
+## Collaborators
+
+The Alan Turing Institute — Data Study Group

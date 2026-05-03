@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Poonam Brar",
+    "section": "",
+    "text": "One of my clips from the top of a cliff facing the Norwegian Fjord Nærøyfjord\n\nMy Story\nMy path into data science didn’t start with a laptop, it started in a remote tribal district in India, where I was working to improve sanitation conditions for communities in Dhar. What struck me wasn’t just the scale of the problem, but how much sharper our decisions became when we let data lead. Using visualisations to strategise where to target resources and time, we helped villagers gain access to something as fundamental as a toilet. That experience changed how I think about what data is actually for.\nFrom there I joined SHEROES, a women-centred social platform, as a Product Manager, helping build and scale a community mobile application that gave women a safe space and a launchpad for their entrepreneurial journeys. Working at that intersection of people, product, and technology made me want to go deeper into the technical side. So I did an MSc in Applied Data Science and Statistics at the University of Exeter and haven’t looked back. My dissertation explored the evolution of evolutionary linguistics, sitting at an unlikely crossroads of data and language that I found fascinating.\nI now work as a Data Scientist with the University of Southampton, building LLM-driven tools for NIHR’s research funding body NETSCC; automating and simplifying workflows while keeping the human firmly in the loop.\n\n\nCurrently\n\nWorking through fast.ai’s Practical Deep Learning course — follow along on my blog →\nExploring LLMs for risk assessment of research awards at work\nKnitting a cap (it’s going okay)\n\n\n\nExperience\nData Scientist | University of Southampton / NIHR NETSCC | June 2023–Present\n\nBuilding LLM-driven tools to improve workforce efficiency in research funding workflows.\n\nResearch Assistant | University of Exeter | March–December 2022\n\nDeveloped an agent base model to understand how racial pseudocience spreads on Twitter, now X.\n\nProduct Manager | SHEROES | October 2018–August 2020\n\nHelped scale a women-centred social platform focused on community and entrepreneurship.\n\nConsultant | Tata Trusts | June 2017–June 2018\n\nUsed data-driven approaches to improve sanitation access in rural Madhya Pradesh.\n\n\n\nEducation\nMSc Applied Data Science and Statistics | University of Exeter | 2021–2022\n\nDissertation: The Evolution of Evolutionary Linguistics\n\nBE Civil Engineering | BITS Pilani | 2013–2017\n\n\nOutside of work\nI love trying things I haven’t done before. Right now that means bouldering, swimming, knitting, and working my way through my book club’s reading list, currently on The Raven Scholar. I travel whenever I can, with a mix of adventure, relaxation, and getting genuinely lost in a new culture. The Norway trip that inspired the photo above was one of those."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Always Building",
+    "section": "",
+    "text": "Hi, I’m Poonam Brar, a Data Scientist at the University of Southampton, building AI/ML and data science solutions for NETSCC, NIHR that automate and simplify research workflows while keeping the human in the loop.\nI hold an MSc in Applied Data Science and Statistics from the University of Exeter. I love working at the intersection of rigorous research and practical engineering turning messy, complex problems into something that actually works.\nRight now I’m deepening my deep learning knowledge through fast.ai, and I’m always interested in conversations about AI in healthcare, research automation, or anything data-driven.\nIf you’d like to collaborate or just talk ideas, feel free to reach out.\n\n\nProjects\nExplore my data science and AI/ML projects from my collaborations to personal experiments.\nView projects →\n\n\n\n\nBlog\nNotes on data science, deep learning, and things I’m learning which is always a work in progress.\nRead the blog →"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Patterns and Problems",
+    "section": "",
+    "text": "Evolution of Evolutionary Linguistics\n\n\n\nNLP\n\nNetwork Science\n\nTopic Modelling\n\nPython\n\n\n\nUsing topic modelling and network science to map the intellectual landscape of 413 research papers in Evolutionary Linguistics.\n\n\n\n\n\n\n\n\n\n\n\n\nNorthern Power Grid — Energy Transition Analysis\n\n\n\nGeospatial\n\nExtreme Value Theory\n\nEnergy\n\nPython\n\n\n\nIdentifying spatial and temporal patterns in power consumption across northern UK to guide clean energy upgrades.\n\n\n\n\n\n\n\n\n\n\n\n\nSustrans — National Cycle Network Accessibility\n\n\n\nGeospatial\n\nNetwork Science\n\nTime-Series\n\nPython\n\n\n\nImproving accessibility of the UK’s National Cycle Network using geospatial data science, network science, and time-series analysis.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/sustrans/index.html",
+    "href": "projects/sustrans/index.html",
+    "title": "Sustrans — National Cycle Network Accessibility",
+    "section": "",
+    "text": "The National Cycle Network spans thousands of miles across the UK, but not all of it is equally accessible. Sustrans — the charity behind the network — wanted to better understand where the barriers to access lie and how they could be addressed.\nThis project was completed as part of the Data Study Group at The Alan Turing Institute, working collaboratively with a team of data scientists."
+  },
+  {
+    "objectID": "projects/sustrans/index.html#the-problem",
+    "href": "projects/sustrans/index.html#the-problem",
+    "title": "Sustrans — National Cycle Network Accessibility",
+    "section": "",
+    "text": "The National Cycle Network spans thousands of miles across the UK, but not all of it is equally accessible. Sustrans — the charity behind the network — wanted to better understand where the barriers to access lie and how they could be addressed.\nThis project was completed as part of the Data Study Group at The Alan Turing Institute, working collaboratively with a team of data scientists."
+  },
+  {
+    "objectID": "projects/sustrans/index.html#approach",
+    "href": "projects/sustrans/index.html#approach",
+    "title": "Sustrans — National Cycle Network Accessibility",
+    "section": "Approach",
+    "text": "Approach\nWe developed models to identify access points across the network and analysed the underlying geospatial structure using network science. Time-series analysis helped us understand how usage patterns vary across different parts of the network, informing where improvements would have the greatest impact."
+  },
+  {
+    "objectID": "projects/sustrans/index.html#tools-techniques",
+    "href": "projects/sustrans/index.html#tools-techniques",
+    "title": "Sustrans — National Cycle Network Accessibility",
+    "section": "Tools & Techniques",
+    "text": "Tools & Techniques\n\nGeospatial data science (GeoPandas, OSMnx)\nNetwork science\nTime-series analysis\nPython"
+  },
+  {
+    "objectID": "projects/sustrans/index.html#collaborators",
+    "href": "projects/sustrans/index.html#collaborators",
+    "title": "Sustrans — National Cycle Network Accessibility",
+    "section": "Collaborators",
+    "text": "Collaborators\nThe Alan Turing Institute — Data Study Group"
+  },
+  {
+    "objectID": "projects/northern-power-grid/index.html",
+    "href": "projects/northern-power-grid/index.html",
+    "title": "Northern Power Grid — Energy Transition Analysis",
+    "section": "",
+    "text": "As the UK transitions to clean energy, grid operators need to know where to prioritise asset upgrades and which power generators are best suited for conversion to renewable sources. Northern Power Grid needed data-driven answers to both questions.\nThis project was completed as part of the Data Study Group at The Alan Turing Institute."
+  },
+  {
+    "objectID": "projects/northern-power-grid/index.html#the-problem",
+    "href": "projects/northern-power-grid/index.html#the-problem",
+    "title": "Northern Power Grid — Energy Transition Analysis",
+    "section": "",
+    "text": "As the UK transitions to clean energy, grid operators need to know where to prioritise asset upgrades and which power generators are best suited for conversion to renewable sources. Northern Power Grid needed data-driven answers to both questions.\nThis project was completed as part of the Data Study Group at The Alan Turing Institute."
+  },
+  {
+    "objectID": "projects/northern-power-grid/index.html#approach",
+    "href": "projects/northern-power-grid/index.html#approach",
+    "title": "Northern Power Grid — Energy Transition Analysis",
+    "section": "Approach",
+    "text": "Approach\nI analysed spatial and temporal patterns in power consumption and station capacity across the northern UK. To identify stations under the most strain, I applied Extreme Value Theory — a statistical technique for modelling the probability of rare but significant deviations from normal behaviour.\nThe outputs included visualisations of stations where asset upgrades are required and recommendations for which power generators should be prioritised for conversion to solar and wind."
+  },
+  {
+    "objectID": "projects/northern-power-grid/index.html#tools-techniques",
+    "href": "projects/northern-power-grid/index.html#tools-techniques",
+    "title": "Northern Power Grid — Energy Transition Analysis",
+    "section": "Tools & Techniques",
+    "text": "Tools & Techniques\n\nExtreme Value Theory\nGeospatial visualisation\nTime-series analysis\nPython"
+  },
+  {
+    "objectID": "projects/northern-power-grid/index.html#collaborators",
+    "href": "projects/northern-power-grid/index.html#collaborators",
+    "title": "Northern Power Grid — Energy Transition Analysis",
+    "section": "Collaborators",
+    "text": "Collaborators\nThe Alan Turing Institute — Data Study Group"
+  },
+  {
+    "objectID": "projects/evolutionary-linguistics/index.html",
+    "href": "projects/evolutionary-linguistics/index.html",
+    "title": "Evolution of Evolutionary Linguistics",
+    "section": "",
+    "text": "Evolutionary Linguistics is a field that sits at the crossroads of biology, cognitive science, and linguistics — but how has its research landscape actually evolved over time? With hundreds of papers spanning multiple disciplines, manually identifying the key themes and how they relate to each other would be near impossible."
+  },
+  {
+    "objectID": "projects/evolutionary-linguistics/index.html#the-problem",
+    "href": "projects/evolutionary-linguistics/index.html#the-problem",
+    "title": "Evolution of Evolutionary Linguistics",
+    "section": "",
+    "text": "Evolutionary Linguistics is a field that sits at the crossroads of biology, cognitive science, and linguistics — but how has its research landscape actually evolved over time? With hundreds of papers spanning multiple disciplines, manually identifying the key themes and how they relate to each other would be near impossible."
+  },
+  {
+    "objectID": "projects/evolutionary-linguistics/index.html#approach",
+    "href": "projects/evolutionary-linguistics/index.html#approach",
+    "title": "Evolution of Evolutionary Linguistics",
+    "section": "Approach",
+    "text": "Approach\nI applied topic modelling to a corpus of 413 research papers to surface the dominant concepts driving the field. From there, I used network science to build a graph of causal relationships between those concepts — making it possible to see not just what the field is about, but how its ideas connect and cluster.\nCommunity detection algorithms identified mathematically formed groups of concepts, which I then analysed for their significance and evolution over time."
+  },
+  {
+    "objectID": "projects/evolutionary-linguistics/index.html#tools-techniques",
+    "href": "projects/evolutionary-linguistics/index.html#tools-techniques",
+    "title": "Evolution of Evolutionary Linguistics",
+    "section": "Tools & Techniques",
+    "text": "Tools & Techniques\n\nTopic modelling (LDA)\nNetwork science — centrality measures, community detection\nPython (NetworkX, Gensim, Matplotlib)"
+  },
+  {
+    "objectID": "projects/evolutionary-linguistics/index.html#status",
+    "href": "projects/evolutionary-linguistics/index.html#status",
+    "title": "Evolution of Evolutionary Linguistics",
+    "section": "Status",
+    "text": "Status\nThis work is on track to be published in a multidisciplinary journal."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Thinking Out Loud",
+    "section": "",
+    "text": "Hello World\n\n\n\nfirst-post\n\n\n\nMore things to say here, but this is just a test post to make sure everything is working.\n\n\n\n\n\n\nMay 3, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/first_post/index.html",
+    "href": "blog/posts/first_post/index.html",
+    "title": "Hello World",
+    "section": "",
+    "text": "Some text. Bold text. Italic text."
+  },
+  {
+    "objectID": "blog/posts/first_post/index.html#a-heading",
+    "href": "blog/posts/first_post/index.html#a-heading",
+    "title": "Your Post Title",
+    "section": "A heading",
+    "text": "A heading\nSome text. Bold text. Italic text.\n\n\n\nAn image caption\n\n\n# code blocks work like this\nimport pandas as pd"
+  },
+  {
+    "objectID": "blog/posts/first_post/index.html#works",
+    "href": "blog/posts/first_post/index.html#works",
+    "title": "Hello World",
+    "section": "",
+    "text": "Some text. Bold text. Italic text."
+  }
+]

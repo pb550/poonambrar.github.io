@@ -1,0 +1,43 @@
+---
+title: "Always Building"
+toc: false
+about:
+    template: solana
+    image: profile.jpg
+    links:
+        - icon: github
+          text: Github
+          href: https://github.com/pb550
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/poonambrar29/
+---
+
+Hi, I'm Poonam Brar, a Data Scientist at the University of Southampton, building AI/ML and data science solutions for NETSCC, NIHR that automate and simplify research workflows while keeping the human in the loop.
+
+I hold an MSc in Applied Data Science and Statistics from the University of Exeter. I love working at the intersection of rigorous research and practical engineering turning messy, complex problems into something that actually works.
+
+Right now I'm deepening my deep learning knowledge through fast.ai, and I'm always interested in conversations about AI in healthcare, research automation, or anything data-driven.
+
+If you'd like to collaborate or just talk ideas, feel free to reach out.
+
+
+<a href="projects/index.qmd" style="text-decoration: none; color: inherit;">
+<div style="border: 0.5px solid var(--bs-border-color); border-radius: 12px; padding: 1.5rem; margin-bottom: 1rem;">
+
+### Projects
+Explore my data science and AI/ML projects from my collaborations to personal experiments.
+
+<span style="color: #888780; font-weight: 500;">View projects →</span>
+</div>
+</a>
+
+<a href="blog/index.qmd" style="text-decoration: none; color: inherit;">
+<div style="border: 0.5px solid var(--bs-border-color); border-radius: 12px; padding: 1.5rem;">
+
+### Blog
+Notes on data science, deep learning, and things I'm learning which is always a work in progress.
+
+<span style="color: #888780; font-weight: 500;">Read the blog →</span>
+</div>
+</a>

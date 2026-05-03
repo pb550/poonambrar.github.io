@@ -1,0 +1,11 @@
+---
+title: "Thinking Out Loud"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  feed: true
+toc: false
+page-layout: full
+---

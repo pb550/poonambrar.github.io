@@ -1,0 +1,10 @@
+---
+title: "Patterns and Problems"
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  fields: [image, title, description, categories]
+  sort: false
+page-layout: full
+toc: false
+---

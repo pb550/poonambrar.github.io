@@ -1,0 +1,36 @@
+---
+title: "Sustrans — National Cycle Network Accessibility"
+description: "Improving accessibility of the UK's National Cycle Network using geospatial data science, network science, and time-series analysis."
+categories: [Geospatial, Network Science, Time-Series, Python]
+image: preview.png
+---
+
+## The Problem
+
+The National Cycle Network spans thousands of miles across the UK, but not all 
+of it is equally accessible. Sustrans — the charity behind the network — wanted 
+to better understand where the barriers to access lie and how they could be 
+addressed.
+
+This project was completed as part of the Data Study Group at 
+**The Alan Turing Institute**, working collaboratively with a team of 
+data scientists.
+
+## Approach
+
+We developed models to identify **access points** across the network and 
+analysed the underlying geospatial structure using network science. 
+Time-series analysis helped us understand how usage patterns vary across 
+different parts of the network, informing where improvements would have 
+the greatest impact.
+
+## Tools & Techniques
+
+- Geospatial data science (GeoPandas, OSMnx)
+- Network science
+- Time-series analysis
+- Python
+
+## Collaborators
+
+The Alan Turing Institute — Data Study Group

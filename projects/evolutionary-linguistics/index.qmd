@@ -1,0 +1,34 @@
+---
+title: "Evolution of Evolutionary Linguistics"
+description: "Using topic modelling and network science to map the intellectual landscape of 413 research papers in Evolutionary Linguistics."
+categories: [NLP, Network Science, Topic Modelling, Python]
+image: preview.png
+---
+
+## The Problem
+
+Evolutionary Linguistics is a field that sits at the crossroads of biology, 
+cognitive science, and linguistics — but how has its research landscape actually 
+evolved over time? With hundreds of papers spanning multiple disciplines, manually 
+identifying the key themes and how they relate to each other would be near impossible.
+
+## Approach
+
+I applied **topic modelling** to a corpus of 413 research papers to surface the 
+dominant concepts driving the field. From there, I used **network science** 
+to build a graph of causal relationships between those concepts — making it 
+possible to see not just what the field is about, but how its ideas connect 
+and cluster.
+
+Community detection algorithms identified mathematically formed groups of 
+concepts, which I then analysed for their significance and evolution over time.
+
+## Tools & Techniques
+
+- Topic modelling (LDA)
+- Network science — centrality measures, community detection
+- Python (NetworkX, Gensim, Matplotlib)
+
+## Status
+
+This work is on track to be published in a multidisciplinary journal.

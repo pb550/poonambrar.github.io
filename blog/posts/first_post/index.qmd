@@ -1,0 +1,12 @@
+---
+title: "Hello World"
+date: 2026-05-03
+categories: [first-post]
+description: "More things to say here, but this is just a test post to make sure everything is working."
+image: preview.png
+toc: true
+---
+
+## Works!
+
+Some text. **Bold text.** *Italic text.*
