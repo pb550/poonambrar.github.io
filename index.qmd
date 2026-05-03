@@ -3,11 +3,11 @@ title: "Always Building"
 toc: false
 about:
     template: solana
-    image: profile.jpg
+    image: images/profile.jpg
     links:
         - icon: github
           text: Github
-          href: https://github.com/pb550
+          href: https://github.com/poonambrar
         - icon: linkedin
           text: LinkedIn
           href: https://www.linkedin.com/in/poonambrar29/
